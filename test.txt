@@ -4,3 +4,8 @@ this is conflict
 this is my content
 test hoang
 commit 
+
+
+trung 
+
+trung
